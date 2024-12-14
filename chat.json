@@ -534,5 +534,15 @@
         "source": "base_assistant",
         "content": "All elements have been removed from the header component. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "521f3855-8e6f-4472-8d04-9fa43da0c20b",
+        "timestamp": "2024-12-14T08:41:48.812835Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "put the image of the circle in the header 02dfdbde981d4596aa48a513a93b1716",
+        "metadata": {
+            "component_id": "Hero1732544493"
+        }
     }
 ]
