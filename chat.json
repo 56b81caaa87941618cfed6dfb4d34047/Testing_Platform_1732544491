@@ -414,5 +414,15 @@
         "source": "base_assistant",
         "content": "The gap between the circle image and the top of the component has been removed. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "72535be7-c1a4-4294-8435-64c5ce54ba1c",
+        "timestamp": "2024-12-14T08:39:26.629309Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want you to duplicate this component into another one",
+        "metadata": {
+            "component_id": "Hero1732544493"
+        }
     }
 ]
