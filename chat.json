@@ -585,5 +585,15 @@
         "source": "base_assistant",
         "content": "The small circle image has been added to the top of the header component. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "d5cfecc4-e1e2-4ec9-9100-9b7d1ca1c973",
+        "timestamp": "2024-12-14T08:42:44.577608Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "get rid of everything thta is not the image, and background white",
+        "metadata": {
+            "component_id": "Header1732544493"
+        }
     }
 ]
