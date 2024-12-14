@@ -414,5 +414,23 @@
         "source": "base_assistant",
         "content": "The gap between the circle image and the top of the component has been removed. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "72535be7-c1a4-4294-8435-64c5ce54ba1c",
+        "timestamp": "2024-12-14T08:39:26.629309Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want you to duplicate this component into another one",
+        "metadata": {
+            "component_id": "Hero1732544493"
+        }
+    },
+    {
+        "id": "3319a416-b03a-429c-85f8-d00f4f0a901d",
+        "timestamp": "2024-12-14T08:39:28.006485Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "I am unable to duplicate components directly. You'll need to add a new component in the \"Components\" tab and drag it into the canvas. Once added, I can help you modify it to match your requirements.",
+        "metadata": {}
     }
 ]
