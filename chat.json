@@ -424,5 +424,13 @@
         "metadata": {
             "component_id": "Hero1732544493"
         }
+    },
+    {
+        "id": "3319a416-b03a-429c-85f8-d00f4f0a901d",
+        "timestamp": "2024-12-14T08:39:28.006485Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "I am unable to duplicate components directly. You'll need to add a new component in the \"Components\" tab and drag it into the canvas. Once added, I can help you modify it to match your requirements.",
+        "metadata": {}
     }
 ]
