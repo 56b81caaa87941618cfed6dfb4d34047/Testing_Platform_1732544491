@@ -432,5 +432,15 @@
         "source": "base_assistant",
         "content": "I am unable to duplicate components directly. You'll need to add a new component in the \"Components\" tab and drag it into the canvas. Once added, I can help you modify it to match your requirements.",
         "metadata": {}
+    },
+    {
+        "id": "e2e6e867-8499-48a5-9eea-3c7d4f3142f6",
+        "timestamp": "2024-12-14T08:40:03.611817Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "ok then do the same for the header, same image",
+        "metadata": {
+            "component_id": "Hero1732544493"
+        }
     }
 ]
