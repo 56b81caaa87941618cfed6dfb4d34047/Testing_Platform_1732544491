@@ -4,6 +4,9 @@ const Hero: React.FC = () => {
   
   return (
     <div className="bg-black py-16 text-white w-full h-full">
+      <div className="flex justify-center mb-8">
+        <img src={`https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Testing_Platform_1732544491/${window.MI_PROJECT_GIT_REF || 'main'}/src/assets/images/a35065ba4d5343fe8df4052b695fdd70.jpeg`} alt="City" className="w-full max-w-4xl" />
+      </div>
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center h-full">
         <div className="md:w-1/2 mb-8 md:mb-0">
           <h1 className="text-4xl font-bold mb-4 text-red-500">Revolutionize Your Testing Process</h1>
