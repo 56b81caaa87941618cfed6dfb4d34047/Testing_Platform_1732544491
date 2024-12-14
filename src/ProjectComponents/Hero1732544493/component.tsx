@@ -5,7 +5,7 @@ const Hero: React.FC = () => {
   return (
     <div className="bg-black py-16 text-white w-full h-full">
       <div className="flex justify-center mb-8">
-        <img src={`https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Testing_Platform_1732544491/${window.MI_PROJECT_GIT_REF || 'main'}/src/assets/images/c5c966ae7e394c3f9c5550e898d07917.jpeg`} alt="Hero" className="w-full max-w-4xl" />
+        <img src={`https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Testing_Platform_1732544491/${window.MI_PROJECT_GIT_REF || 'main'}/src/assets/images/02dfdbde981d4596aa48a513a93b1716.jpeg`} alt="Hero" className="w-24 h-24" />
       </div>
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center h-full">
         <div className="md:w-1/2 mb-8 md:mb-0">
