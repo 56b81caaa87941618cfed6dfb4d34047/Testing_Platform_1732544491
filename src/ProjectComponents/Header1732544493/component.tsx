@@ -12,4 +12,3 @@ const Header: React.FC = () => {
 };
 
 export { Header as component };
-export { Header as component };
